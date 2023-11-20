@@ -35,9 +35,9 @@
 
 <h3 align="left">⭐ Stats</h3>
 <p align="left">
-<p><img align="left" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=iDeebSee&show_icons=true&locale=en&theme=vision-friendly-dark" alt="iDeebSee" /></p>
+<p><img align="left" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=iDeebSee&show_icons=true&locale=en&theme=vision-friendly-dark" alt="iDeebSee" /></p>
 
-<p><img align="left" height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iDeebSee&theme=vision-friendly-dark" alt="iDeebSee" /></p>
+<p><img align="left" height="180em" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=iDeebSee&theme=vision-friendly-dark" alt="iDeebSee" /></p>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">📊 Graphs</h3>
