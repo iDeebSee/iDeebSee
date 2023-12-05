@@ -5,8 +5,8 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iDeebSee&theme=" alt="iDeebSee" /></a> </p>-->
 
-- 🔭 I’m currently working on **My portfolio site**
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on **An alarm app for mobile**
+- 🌱 I’m currently learning **NextJS & React Native**
 - 💬 Ask me about **React, NodeJS, Java Spring Boot, and many more**
 - 📫 How to reach me **abdelmajidamiri@gmail.com**
 - 👨‍💻 All of my projects are available at **coming soon...**
