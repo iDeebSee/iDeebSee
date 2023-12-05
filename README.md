@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **NextJS & React Native**
 - 💬 Ask me about **React, NodeJS, Java Spring Boot, and many more**
 - 📫 How to reach me **abdelmajidamiri@gmail.com**
-- 👨‍💻 All of my projects are available at **https://abdelmajid.dev**
+- 👨‍💻 All of my projects are available at **<a href="https://abdelmajid.dev" target="_blank">https://abdelmajid.dev</a>**
 - 📄 Know about my experiences **https://www.linkedin.com/in/abdelmajid-amiri/**
 - ⚡ Fun fact **I turn caffeine in code**
 
