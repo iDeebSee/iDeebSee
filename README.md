@@ -5,9 +5,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iDeebSee&theme=" alt="iDeebSee" /></a> </p>-->
 
-- 🔭 I’m currently working on **An alarm app for mobile**
-- 🌱 I’m currently learning **NextJS & React Native**
-- 💬 Ask me about **React, NodeJS, Java Spring Boot, and many more**
+- 🔭 I’m currently working on **An alarm app for mobile (in React Native & Expo) and a jokes web app in ASP.NET (part of my learning process)**
+- 🌱 I’m currently learning **ASP.NET**
+- 💬 Ask me about **React, NodeJS, Java Spring Boot, C# and many more**
 - 📫 How to reach me **abdelmajidamiri@gmail.com**
 - 👨‍💻 All of my projects are available at **https://abdelmajid.dev**
 - 📄 Know about my experiences **https://www.linkedin.com/in/abdelmajid-amiri/**
