@@ -6,7 +6,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iDeebSee&theme=" alt="iDeebSee" /></a> </p>-->
 
 - 🔭 I’m currently working on **Wayloop**
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **something new everyday**
 - 💬 Ask me about **React, NodeJS, Java Spring Boot, C# and many more**
 - 📫 How to reach me **abdelmajidamiri@gmail.com**
 - 👨‍💻 All of my projects are available at **https://abdelmajid.dev**
